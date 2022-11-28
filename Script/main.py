@@ -3,6 +3,11 @@ from telegram.ext import *
 import Responses as R
 # start of online server proxy config
 
+# "This Bot was created by Gad Kalu Obioma #Please support
+# 0795559208
+# Access bank
+# Gad Obioma kalu"
+
 import urllib3
 import telepot.api
 proxy_url = 'http://proxy.server:3128'
@@ -587,9 +592,7 @@ def main():
     dp.add_handler(CommandHandler("confirm_new_number", confirm_new_number_command))
     dp.add_handler(CommandHandler("confirm_address", confirm_address_command))
 
-
-
-
+    # "This Bot was created by #Gad Kalu Obioma"
 
 
 

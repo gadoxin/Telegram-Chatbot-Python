@@ -1,5 +1,9 @@
 from datetime import datetime
-# start of online server proxy config
+
+# "This Bot was created by Gad Kalu Obioma #Please support
+# 0795559208
+# Access bank
+# Gad Obioma kalu"
 
 import urllib3
 import telepot.api
@@ -66,6 +70,7 @@ def sample_response(input_text):
 
         return str(date_time)
 
+# "This Bot was created by #Gad Kalu Obioma"
 
 
 
